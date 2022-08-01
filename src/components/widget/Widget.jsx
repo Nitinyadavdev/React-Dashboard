@@ -4,7 +4,7 @@ import PersonIcon from "@mui/icons-material/PersonOutlineOutlined";
 import AccountBalanceIcon from "@mui/icons-material/AccountBalanceWalletOutlined";
 import ShoppingCartIcon from "@mui/icons-material/ShoppingCartOutlined";
 import MonetizationIcon from "@mui/icons-material/MonetizationOnOutlined";
-import { grey, red } from "@mui/material/colors";
+// import { grey, red } from "@mui/material/colors";
 
 const Widget = ({ type }) => {
   let data;
